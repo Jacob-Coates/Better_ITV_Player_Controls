@@ -1,0 +1,10 @@
+#next-button {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    border: 0;
+    cursor: pointer;
+    position: absolute;
+    bottom: 10px;
+    left: 200px;
+}
